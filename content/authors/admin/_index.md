@@ -69,8 +69,8 @@ work:
   - position: Data Science Intern
     company_name: Ingersoll-Rand
     company_url: 'https://www.irco.com/en-us/'
-    date_start: 06-01-2023
-    date_end: 08-31-2023
+    date_start: 2023-06-01
+    date_end: 2023-08-31
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
