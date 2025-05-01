@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'gathomp3@ncsu.edu'
+    url: 'mailto:gathomp3@ncsu.edu'
     label: E-mail Me
   # # - icon: brands/x
   # #   url: https://twitter.com/GetResearchDev
@@ -70,12 +70,12 @@ work:
     company_name: Ingersoll-Rand
     company_url: 'https://www.irco.com/en-us/'
     date_start: Summer 2023
-    # date_end: 
-    # summary: |2-
-    #   Responsibilities include:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_end: 2023
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
@@ -90,37 +90,37 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-# skills:
-#   - name: Technical Skills
-#     items:
-#       - name: Python
-#         description: ''
-#         percent: 80
-#         icon: code-bracket
-#       - name: Data Science
-#         description: ''
-#         percent: 100
-#         icon: chart-bar
-#       - name: SQL
-#         description: ''
-#         percent: 40
-#         icon: circle-stack
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Hiking
-  #       description: ''
-  #       percent: 60
-  #       icon: person-simple-walk
-  #     - name: Cats
-  #       description: ''
-  #       percent: 100
-  #       icon: cat
-  #     - name: Photography
-  #       description: ''
-  #       percent: 80
-  #       icon: camera
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
 # languages:
 #   - name: English
@@ -138,7 +138,7 @@ awards:
   - title: Caldwell Fellows Scholar
     url: https://caldwellfellows.ncsu.edu/
     date: '2023'
-    awarder: North Carolina State Universitty
+    awarder: North Carolina State University
     # icon: coursera
     summary: |
         The main principle that underlies the Caldwell Fellows Is Servant-Leadership. Selected among 30 students in my class at NC State, the program is focused on developing the next generation of creative and conscientious leaders.The main principle that underlies the Caldwell Fellows Is Servant-Leadership. Selected among 30 students in my class at NC State, the program is focused on developing the next generation of creative and conscientious leaders.
