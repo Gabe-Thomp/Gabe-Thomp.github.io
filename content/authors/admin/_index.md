@@ -30,9 +30,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  # - icon: at-symbol
-  #   url: 'mailto:gathomp3@ncsu.edu'
-  #   label: E-mail Me
+  - icon: at-symbol
+    url: 'mailto:gathomp3@ncsu.edu'
+    label: E-mail Me
   # # - icon: brands/x
   # #   url: https://twitter.com/GetResearchDev
   # # - icon: brands/instagram
@@ -47,8 +47,8 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-- Interpretable Machine Learning
-- Mechanistic Interpretability
+- Interpretable Machine Learning + Mechanistic Interpretability
+- AI Safety
 - AI4Science
 - Federated Learning
 
@@ -61,9 +61,9 @@ education:
       GPA: 4.0/4.0
 
       - Worked in federated learning during my undergrad, specifically on applying the Neural Tangent Kernel to combat data heterogeneity. Culminated in a first author paper at ICML 2025. Supervised by [Prof Chau-Wai Wong](https://ncsu-wong.org/).
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
 
 work:
   - position: Data Science Intern
@@ -72,10 +72,10 @@ work:
     date_start: 2023-06-01
     date_end: 2023-08-31
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Description
+      - Analyzed promotional data using various Python data science libraries and statistical techniques to analyze effectiveness of promotional deals
+      - Examined historical forecast data and provided recommendations for model improvement in low-volume supply chain 
+      - Conducted lead time alignment between ERP systems to optimize operational efficiency
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''
@@ -142,6 +142,9 @@ awards:
     # icon: coursera
     summary: |
         The main principle that underlies the Caldwell Fellows Is Servant-Leadership. Selected among 30 students in my class at NC State, the program is focused on developing the next generation of creative and conscientious leaders.The main principle that underlies the Caldwell Fellows Is Servant-Leadership. Selected among 30 students in my class at NC State, the program is focused on developing the next generation of creative and conscientious leaders.
+  - title: Frederik J. Tischer EE Scholarship
+  - title: Duke Power Scholarship
+  - title: Dean's List
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #   date: '2023-07-01'
