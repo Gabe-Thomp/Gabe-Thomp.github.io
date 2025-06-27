@@ -9,14 +9,11 @@ authors:
   - Kai Yue
   - Chau-Wai Wong
   - Huaiyu Dai 
+# Author notes (optional)
+author_notes: []
 
-# # Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
-
-date: '2025-07-01T00:00:00Z'
-doi: ''
+date: "2025-06-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-07-01T00:00:00Z'
@@ -60,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: ''
+  caption: 'Image caption'
   focal_point: ''
   preview_only: false
 
