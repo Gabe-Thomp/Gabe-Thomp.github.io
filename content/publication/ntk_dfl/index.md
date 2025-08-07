@@ -48,9 +48,9 @@ featured: true
 url_pdf: 'https://arxiv.org/pdf/2410.01922'
 url_code: 'https://github.com/Gabe-Thomp/ntk-dfl'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1oPF6owFgdtjGVRBc_MGAqBtN-E-nTLd6/preview'
 url_project: ''
-url_slides: ''
+url_slides: 'https://drive.google.com/file/d/1F1n2fm1d-dSwxziuE447t0hZWCI5Ofmi/view?usp=sharing'
 url_source: 'https://arxiv.org/abs/2410.01922'
 url_video: ''
 
@@ -73,15 +73,17 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+slides: "content/slides/ntk_slides.pdf"
 ---
 
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+I was fortunate enough to have the opportunity to present our work at ICML 2025 in Vancouver! ✈️✈️
 {{% /callout %}}
 
-{{% callout note %}}
+![ICML Poster](poster.pdf "Included here is the poster that I presented at ICML.")
+
+<!-- {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
-
+ -->
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
