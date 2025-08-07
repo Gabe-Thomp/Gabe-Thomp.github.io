@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I've spent time at my home undergrad institution NC State researching privacy-preserving machine learning. In particular, I applied the neural tangent kernel, typically an analysis tool for neural networks, as a method of updating model weights in the decentralized federated setting. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I have also been fortunate to work at MIT as a research intern with the CLEAR Lab. Specifically, I worked on improving the ability of LLMs to ask informative questions through Bayesian fine-tuning.
+          
+        Please reach out to collaborate or if you would like to chat! 😄
     design:
       columns: '1'
   - block: collection
@@ -53,16 +53,16 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
   # - block: collection
   #   id: talks
   #   content:
