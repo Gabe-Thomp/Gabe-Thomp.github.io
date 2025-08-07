@@ -66,6 +66,34 @@ education:
     #   url: 'https://example.com'
 
 work:
+  - position: MIT Research Intern
+    company_name: Massachusetts Institute of Technology
+    company_url: 'https://oge.mit.edu/msrp/'
+    date_start: 2025-06-09
+    date_end: ""
+    summary: |2-
+      Description
+      - Fine-tuning language models to improve Bayesian reasoning capabilities in the context of preference elicitation.
+      - Working in the Collaborative Learning and Autonomy Research (CLEAR) lab, MIT CSAIL, supervised by Dr. Andreea Bobu.
+  - position: Deep Learning Undergraduate Researcher
+    company_name: North Carolina State University
+    company_url: 'https://assistcenter.org/'
+    date_start: 2024-06-01
+    date_end: 2025-08-31
+    summary: |2-
+      Description
+      - First author of a paper in Machine Learning published at ICML 2025.
+      - Conducted research under the mentorship of Professor Dr. Chau-Wai Wong.
+      - Worked on federated learning approaches with the neural tangent kernel.
+  - position: Deep Learning Undergraduate Researcher
+    company_name: North Carolina State University
+    company_url: 'https://assistcenter.org/'
+    date_start: 2023-08-01
+    date_end: 2024-05-31
+    summary: |2-
+      Description
+      - Responsible for editing academic papers and books, including recently published book “Pandemic Resilience” by Dr. David Berube
+      - Assisted in grant-writing in the field of nanotechnology, risk, and science communication.
   - position: Data Science Intern
     company_name: Ingersoll-Rand
     company_url: 'https://www.irco.com/en-us/'
@@ -143,8 +171,15 @@ awards:
     summary: |
         The main principle that underlies the Caldwell Fellows Is Servant-Leadership. Selected among 30 students in my class at NC State, the program is focused on developing the next generation of creative and conscientious leaders.The main principle that underlies the Caldwell Fellows Is Servant-Leadership. Selected among 30 students in my class at NC State, the program is focused on developing the next generation of creative and conscientious leaders.
   - title: Frederik J. Tischer EE Scholarship
+    date: '2024-08-01'
+    awarder: North Carolina State University
+
   - title: Duke Power Scholarship
+    date: '2025-08-01'
+    awarder: North Carolina State University
+
   - title: Dean's List
+    awarder: North Carolina State University
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #   date: '2023-07-01'
