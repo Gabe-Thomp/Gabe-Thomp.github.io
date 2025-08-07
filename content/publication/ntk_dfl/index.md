@@ -78,12 +78,11 @@ slides: "content/slides/ntk_slides.pdf"
 
 
 {{% callout note %}}
-I was fortunate enough to have the opportunity to present our work at ICML 2025 in Vancouver! ✈️✈️
+I was fortunate enough to have the opportunity to present our work at ICML 2025 in Vancouver! ✈️✈️ Here are some more details below.
 {{% /callout %}}
 
-## ICML Poster
-I was fortunate enough to have the opportunity to present our work at ICML 2025 in Vancouver! ✈️✈️
-![](poster.png "Here is the poster that I presented at ICML.")
+
+![](gabe_at_icml.jpg "This was my first major research conference. It was such an amazing experience meeting like-minded folks and seeing so many different ideas.")
 
 ## Non-technical Overview
 
@@ -98,4 +97,5 @@ In our paper, we investigate a training algorithm that replaces the typical trai
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
  -->
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+## ICML Poster
+![](poster.png)
