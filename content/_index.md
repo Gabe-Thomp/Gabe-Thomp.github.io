@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I've spent time at my home undergrad institution NC State researching privacy-preserving machine learning. In particular, I applied the neural tangent kernel, typically an analysis tool for neural networks, as a method of updating model weights in the decentralized federated setting. 
+        I've spent time at my home, undergraduate institution (NC State) researching privacy-preserving machine learning. In particular, I applied the neural tangent kernel, typically an analysis tool for neural networks, as a method of updating model weights in the decentralized federated setting. 
 
-        I have also been fortunate to work at MIT as a research intern with the CLEAR Lab. Specifically, I worked on improving the ability of LLMs to ask informative questions through Bayesian fine-tuning.
+        I have also been fortunate to work at MIT as a research intern with the CLEAR Lab. Specifically, I worked on improving the ability of LLMs to ask informative questions by using Bayesian signal to fine-tune models.
           
         Please reach out to collaborate or if you would like to chat! 😄
     design:
