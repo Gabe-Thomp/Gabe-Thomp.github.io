@@ -84,6 +84,9 @@ I was fortunate enough to have the opportunity to present our work at ICML 2025 
 
 ![](gabe_at_icml.jpg "This was my first major research conference. It was such an amazing experience meeting like-minded folks and seeing so many different ideas.")
 
+<img src="gabe_at_icml.jpg" alt="This was my first major research conference..." style="transform: rotate(180deg);">
+
+
 ## Non-technical Overview
 
 *I find that much of academic writing is overly jargon-heavy and intimidating. Here I give a short description of the paper in a more accessible tone.*
