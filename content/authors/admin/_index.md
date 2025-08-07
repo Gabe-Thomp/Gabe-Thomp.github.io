@@ -61,6 +61,8 @@ education:
       GPA: 4.0/4.0
 
       - Worked in federated learning during my undergrad, specifically on applying the Neural Tangent Kernel to combat data heterogeneity. Culminated in a first author paper at ICML 2025. Supervised by [Prof Chau-Wai Wong](https://ncsu-wong.org/).
+      - Learned a good deal of mathematics through my physics degree & other courses that I found interesting such as *numerical analysis* and *linear transformation and matrix theory (extra linear algebra)*.
+      - My physics degree helped immensely by shaping how I think about problem solving. My EE degree showed me some examples of where this sort of thinking can be applied.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -154,6 +156,23 @@ work:
 #   - name: Portuguese
 #     percent: 25
 
+service:
+- title: President of Musical Empowerment
+  url: https://musical-empowerment.org/
+  date_start: 2022-08-01
+  # date_end: 2025-08-
+  # awarder: North Carolina State University
+  # icon: coursera
+  summary: |
+      I (co-)run NC State's chapter of Musical Empowerment. We are an organization dedicated to providing free music lessons to underprivileged youth in the local community by pairing volunteer teachers with students in need.
+- title: Habitat for Humanity
+  url: https://musical-empowerment.org/
+  date_start: 2024-08-01
+  date_end: 2024-12-01
+  # awarder: North Carolina State University
+  # icon: coursera
+  summary: |
+      I spent a semester working with a service group in the Caldwell Fellows Program. We worked for Habitat for Humanity creating maps using GIS software.
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
