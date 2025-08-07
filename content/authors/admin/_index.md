@@ -72,7 +72,6 @@ work:
     date_start: 2025-06-09
     date_end: ""
     summary: |2-
-      Description
       - Fine-tuning language models to improve Bayesian reasoning capabilities in the context of preference elicitation.
       - Working in the Collaborative Learning and Autonomy Research (CLEAR) lab, MIT CSAIL, supervised by Dr. Andreea Bobu.
   - position: Deep Learning Undergraduate Researcher
@@ -81,17 +80,15 @@ work:
     date_start: 2024-06-01
     date_end: 2025-08-31
     summary: |2-
-      Description
       - First author of a paper in Machine Learning published at ICML 2025.
       - Conducted research under the mentorship of Professor Dr. Chau-Wai Wong.
       - Worked on federated learning approaches with the neural tangent kernel.
-  - position: Deep Learning Undergraduate Researcher
+  - position: Provost's Professional Experience Program
     company_name: North Carolina State University
-    company_url: 'https://assistcenter.org/'
+    company_url: 'https://communication.chass.ncsu.edu/research-and-engagement/pcost/'
     date_start: 2023-08-01
     date_end: 2024-05-31
     summary: |2-
-      Description
       - Responsible for editing academic papers and books, including recently published book “Pandemic Resilience” by Dr. David Berube
       - Assisted in grant-writing in the field of nanotechnology, risk, and science communication.
   - position: Data Science Intern
@@ -100,7 +97,6 @@ work:
     date_start: 2023-06-01
     date_end: 2023-08-31
     summary: |2-
-      Description
       - Analyzed promotional data using various Python data science libraries and statistical techniques to analyze effectiveness of promotional deals
       - Examined historical forecast data and provided recommendations for model improvement in low-volume supply chain 
       - Conducted lead time alignment between ERP systems to optimize operational efficiency
