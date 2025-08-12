@@ -84,7 +84,7 @@ I was fortunate enough to have the opportunity to present our work at ICML 2025 
 
 ![](gabe_at_icml.jpg "This was my first major research conference. It was such an amazing experience meeting like-minded folks and seeing so many different ideas.")
 
-<img src="gabe_at_icml.jpg" alt="This was my first major research conference..." style="transform: rotate(180deg);">
+<img src="gabe_at_icml.jpg" alt="This was my first major research conference...">
 
 
 ## Non-technical Overview
