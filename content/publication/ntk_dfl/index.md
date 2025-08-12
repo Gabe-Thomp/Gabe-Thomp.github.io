@@ -81,13 +81,6 @@ slides: "content/slides/ntk_slides.pdf"
 ✈️I was fortunate to have had the opportunity to present our work at ICML 2025 in Vancouver!✈️ Here are some more details below.
 {{% /callout %}}
 
-
-![](gabe_at_icml.jpg "This was my first major research conference. It was such an amazing experience meeting like-minded folks and seeing so many different ideas.")
-
-![](gabe_at_icml_2.jpg "This was my first major research conference. It was such an amazing experience meeting like-minded folks and seeing so many different ideas.")
-![](gabe_at_icml_3.jpg "This was my first major research conference. It was such an amazing experience meeting like-minded folks and seeing so many different ideas.")
-![](gabe_at_icml_4.jpg "This was my first major research conference. It was such an amazing experience meeting like-minded folks and seeing so many different ideas.")
-
 ## Non-technical Overview
 
 *I find that much of academic writing is overly jargon-heavy and intimidating. Here I give a short description of the paper in a more accessible tone.*
