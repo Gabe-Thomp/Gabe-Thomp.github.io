@@ -84,8 +84,7 @@ slides: "content/slides/ntk_slides.pdf"
 
 ![](gabe_at_icml.jpg "This was my first major research conference. It was such an amazing experience meeting like-minded folks and seeing so many different ideas.")
 
-<img src="gabe_at_icml.jpg" alt="This was my first major research conference...">
-
+![](gabe_at_icml_2.jpg "This was my first major research conference. It was such an amazing experience meeting like-minded folks and seeing so many different ideas.")
 
 ## Non-technical Overview
 
