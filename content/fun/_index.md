@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Exercise
+summary: Some fun
 type: landing
 
 cascade:
@@ -11,12 +11,12 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: exercise
     content:
-      title: Teaching
+      title: Exercise
       filters:
         folders:
-          - teaching
+          - exercise
     design:
       view: article-grid
       columns: 2
