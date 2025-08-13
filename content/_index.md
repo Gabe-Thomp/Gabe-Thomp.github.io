@@ -24,7 +24,8 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: bike.jpg
+          # filename: bike.jpg
+          filename: real-peaks.jpeg
           # filename: stacked-peaks.svg
           filters:
             brightness: 0.3
