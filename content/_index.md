@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: ocean.mp4
+          filename: forest.JPG
           # filename: stacked-peaks.svg
           filters:
             brightness: 1.0
