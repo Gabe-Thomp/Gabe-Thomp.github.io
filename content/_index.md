@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: light # was dark
+      css_class: dark
       background:
         color: black
         image:
@@ -27,7 +27,7 @@ sections:
           filename: bike.jpg
           # filename: stacked-peaks.svg
           filters:
-            brightness: 1.0
+            brightness: 0.3
           size: cover
           position: center
           parallax: false
