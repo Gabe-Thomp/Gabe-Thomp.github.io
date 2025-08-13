@@ -28,7 +28,7 @@ sections:
           filename: real-peaks.jpeg
           # filename: stacked-peaks.svg
           filters:
-            brightness: 0.3
+            brightness: 0.5
           size: cover
           position: center
           parallax: false
