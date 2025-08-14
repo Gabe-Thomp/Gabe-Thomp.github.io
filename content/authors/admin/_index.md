@@ -48,9 +48,8 @@ profiles:
 
 interests:
 - Interpretable Machine Learning + Mechanistic Interpretability
-- AI Safety
+- Building Robust and Reliable AI Systems
 - AI4Science
-- Federated Learning
 
 education:
   - area: BS Physics & Electrical Engineering 
