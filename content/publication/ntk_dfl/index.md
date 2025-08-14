@@ -78,7 +78,7 @@ slides: "content/slides/ntk_slides.pdf"
 
 
 {{% callout note %}}
-✈️I was fortunate to have had the opportunity to present our work at ICML 2025 in Vancouver!✈️ Here are some more details below.
+✈️ I was fortunate to have had the opportunity to present our work at ICML 2025 in Vancouver!✈️ Here are some more details below.
 {{% /callout %}}
 
 ## Non-technical Overview
