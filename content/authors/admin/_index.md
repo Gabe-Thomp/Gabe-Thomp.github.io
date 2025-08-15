@@ -52,7 +52,7 @@ interests:
 - AI4Science
 
 education:
-  - area: BS Physics & Electrical Engineering 
+  - area: BS Physics & BS Electrical Engineering 
     institution: North Carolina State University
     date_start: 2022-08-01
     date_end: 2026-05-01
@@ -215,7 +215,6 @@ awards:
 ---
 
 ## About Me
-
 I am a current undergraduate student at NC State majoring in physics and electrical engineering. During my time here, I have worked under the guidance of Dr. Chau-Wai Wong in federated learning. I am generally interested in 1) intelligent design of AI models and 2) what we can learn about intelligence by studying AI models. Along these lines, I believe that greater adoption of this technology in our society comes with responsibility to ensure robustness and safety. In this vein, research dealing with interpretability seems to be very important.
 
 Apart from work, I love exercise, playing music, and serving the community. I ran my first marathon at a 3:28 time. At NC State, I lead our chapter of [Musical Empowerment](https://musical-empowerment.org/), which provides free music lessons to underprivileged kids in the Raleigh-Durham area.
