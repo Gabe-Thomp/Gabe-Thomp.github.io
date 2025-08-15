@@ -52,7 +52,7 @@ interests:
 - AI4Science
 
 education:
-  - area: BS Physics & BS Electrical Engineering 
+  - area: B.S. Physics & B.S. Electrical Engineering 
     institution: North Carolina State University
     date_start: 2022-08-01
     date_end: 2026-05-01
