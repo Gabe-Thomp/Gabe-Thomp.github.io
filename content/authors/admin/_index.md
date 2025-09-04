@@ -215,6 +215,9 @@ awards:
 ---
 
 ## About Me
-I am a current undergraduate student at NC State majoring in physics and electrical engineering. During my time here, I have worked under the guidance of Dr. Chau-Wai Wong in federated learning. I am generally interested in 1) intelligent design of AI models and 2) what we can learn about intelligence by studying AI models. Along these lines, I believe that greater adoption of this technology in our society comes with responsibility to ensure robustness and safety. In this vein, research dealing with interpretability seems to be very important.
 
-Apart from work, I love exercise, playing music, and serving the community. I ran my first marathon at a 3:28 time. At NC State, I lead our chapter of [Musical Empowerment](https://musical-empowerment.org/), which provides free music lessons to underprivileged kids in the Raleigh-Durham area.
+I'm currently an undergraduate student at NC State pursuing dual degrees in physics and electrical engineering. I am generally interested in (1) purposeful and intelligent design of AI models, and (2) what we can learn about intelligence by studying these models. I believe we're living through a unique moment in history where we can study intelligence via these mathematical artifacts that we call neural networks, which are more amenable to scientific inquiry than biological brains. 
+
+I'm particularly drawn to interpretability research, specifically applied to large-scale deep learning models. I believe this understanding will be crucial for building more robust and trustworthy AI systems, as well as paving the way for future improvements in AI models themselves.
+
+Apart from work, I love exercise, playing music, and serving in the community. I ran my first marathon at a 3:28 time. At NC State, I lead our chapter of [Musical Empowerment](https://musical-empowerment.org/), which provides free music lessons to underprivileged kids in the Raleigh-Durham area.
